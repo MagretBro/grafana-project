@@ -1,0 +1,23 @@
+# .gitignore
+# Бинарные файлы
+*.tar.gz
+*.zip
+*-amd64/
+*-amd64.tar.gz
+
+# Данные и кэши
+data/
+*.tmp
+*.swp
+*.db 
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+grafana-v12.0.0/
+# Исполняемые файлы
+grafana-v12.0.0/bin/
+bin/
+**/bin/
