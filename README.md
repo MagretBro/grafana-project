@@ -8,10 +8,7 @@
 
 ## Запуск
 1. Установите компоненты:
-   ```bash
-   wget https://github.com/prometheus/prometheus/releases/download/v2.47.0/prometheus-2.47.0.darwin-amd64.tar.gz
-   # ...аналогично для других компонентов
-   ```
+
 2. Запустите сервисы:
    
 node_exporter
